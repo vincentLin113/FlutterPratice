@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../UI/answer_button.dart';
 import '../utils/quiz.dart';
 import '../UI/question_text.dart';
+import '../UI/correct_wrong_overlay_state.dart';
 
 class QuizPage extends StatefulWidget {
   @override
@@ -24,6 +25,7 @@ class QuizPageState extends State<QuizPage> {
             })
           ],
         ),
+        new CorrectWrongOverlay();
       ],
     );
   }
