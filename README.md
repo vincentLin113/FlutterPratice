@@ -1,16 +1,11 @@
-# myapp
+# Flutter練習專案
 
-A new Flutter project.
+根據這[YouTube](https://www.youtube.com/watch?v=jBBl1tYkUnE)所寫的專案
 
-## Getting Started
+## 從這專案你可以學習
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+1. 如何搭建Flutter UI
+2. 如何使用點擊CallBack
+3. 如何調整文字風格
+4. 如何使用動畫
+5. 如何完成Navigation flow
